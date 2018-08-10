@@ -1,0 +1,23 @@
+{
+  "name": "react-native-image-slideshow",
+  "version": "1.0.0",
+  "description": "react native image slider with amazing features, try out and see",
+  "main": "EkumaImageSlider.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "react",
+    "native",
+    "slider"
+  ],
+
+  "dependencies": {
+    "prop-types": "^15.6.2"
+  },
+  "author": "Okokoh Benjamin Ekuma (JSKing) <ifihear@gmail.com>",
+  "license": "ISC"
+
+
+
+}
